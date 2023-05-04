@@ -1,0 +1,243 @@
+{
+  "offers": [
+    {
+      "id": "093cfa0e-8dad-44b0-94d9-b336b90ecb71",
+      "name": "LOCATION TENNIS",
+      "description": "Garantissez à votre enfant un équipement toujours adapté à sa taille et son niveau !",
+      "pictures": [],
+      "activationFee": {
+        "value": 0.00,
+        "currency": "EUR"
+      },
+      "billingPeriod": "P1M",
+      "commitmentPeriod": "P3M",
+      "firstPeriodToInvoice": "P1M",
+      "products": [
+        {
+          "skuCode": "2836988",
+          "name": "RAQUETTE TR130 -Aluminium- 19”",
+          "thumbnailId": "p1964597",
+          "price": {
+            "value": 1.50,
+            "currency": "EUR"
+          },
+          "services": []
+        },
+        {
+          "skuCode": "4209265",
+          "name": "1 HOUSSE TC Jr",
+          "thumbnailId": "p2092445",
+          "price": {
+            "value": 0.50,
+            "currency": "EUR"
+          },
+          "services": []
+        }
+      ],
+      "services": [],
+      "price": {
+        "value": 3.00,
+        "currency": "EUR"
+      },
+      "locale": "fr_FR",
+      "ratePlanId": "8adcf53483162hj7018317b2dd4250ca",
+      "ratePlanChargeId": "8adcf53483162hj7018317b2dd9a50cc"
+    },
+    {
+      "id": "f32502e4-8e91-4e7a-b0be-8397da1e6610",
+      "name": "LOCATION KIT GOLF",
+      "description": "Louez votre kit de golf (Clubs + Sac) pour débuter librement et le changer facilement quand vous avez progressé",
+      "pictures": [],
+      "activationFee": {
+        "value": 0.00,
+        "currency": "EUR"
+      },
+      "billingPeriod": "P1M",
+      "commitmentPeriod": "P3M",
+      "firstPeriodToInvoice": "P1M",
+      "products": [
+        {
+          "skuCode": "2700157",
+          "name": "KIT DE GOLF 7 CLUBS ADULTE 100 DROITIER GRAPHITE TAILLE 2",
+          "thumbnailId": "p1775548",
+          "price": {
+            "value": 10.00,
+            "currency": "EUR"
+          },
+          "services": []
+        },
+        {
+          "skuCode": "2090239",
+          "name": "SAC ULTRALIGHT NOIR",
+          "thumbnailId": "p1839247",
+          "price": {
+            "value": 5.00,
+            "currency": "EUR"
+          },
+          "services": []
+        }
+      ],
+      "services": [],
+      "price": {
+        "value": 15.00,
+        "currency": "EUR"
+      },
+      "locale": "fr_FR",
+      "ratePlanId": "8adcf53482d9648v9882da17246518fe",
+      "ratePlanChargeId": "8adcd67f82d998250182da18d8ca0e82"
+    },
+    {
+      "id": "99ef0148-82f1-46cf-9ed7-71a05b8f1ceb",
+      "name": "LOCATION MOBILITÉ",
+      "description": "Déplacez vous en toute sérénité, éliminez tous les freins à votre pratique",
+      "pictures": [],
+      "activationFee": {
+        "value": 0.00,
+        "currency": "EUR"
+      },
+      "billingPeriod": "P1M",
+      "commitmentPeriod": "P3M",
+      "firstPeriodToInvoice": "P1M",
+      "products": [
+        {
+          "skuCode": "2714884",
+          "name": "VELO VILLE SINGLE SPEED 500 BLEU (S)",
+          "thumbnailId": "p2982601",
+          "price": {
+            "value": 14.00,
+            "currency": "EUR"
+          },
+          "services": [
+            {
+              "id": "8adcd992763v167101824955ca80421b",
+              "name": "Dépannage CYCLOFIX",
+              "description": "Vous avez la possibilité de vous faire dépanner chez vous ou sur votre lieu de travail par Cyclofix en cas de problème (sous reserve du rayon d'action Cyclofix)",
+              "price": {
+                "value": 0.00,
+                "currency": "EUR"
+              },
+              "contractCode": null,
+              "contractPrice": null
+            },
+            {
+              "id": "8adc84828248ppm001824958237970b0",
+              "name": "Entretien annuel",
+              "description": "Votre abonnement vélo inclut les réparations liées à la pratique du vélo en ville, nous avons listé les principaux incidents susceptibles de survenir dans les CGL. Nous vous invitons aussi à ramener votre vélo en magasin une fois par an pour une révision.",
+              "price": {
+                "value": 0.00,
+                "currency": "EUR"
+              },
+              "contractCode": null,
+              "contractPrice": null
+            },
+            {
+              "id": "8adc84828248eaq00182495a90fe72fc",
+              "name": "Service casse et vol",
+              "description": "Roulez sereinement, nous nous occupons d'assurer votre vélo contre le vol et la casse, nous vous fournissons également un antivol haute sécurité pour minimiser les risques !",
+              "price": {
+                "value": 0.00,
+                "currency": "EUR"
+              },
+              "contractCode": "FR-ABO-CYCLE-T1",
+              "contractPrice": {
+                "value": 2.13,
+                "currency": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "skuCode": "4598671",
+          "name": "ANTIVOL CHAINE 900L",
+          "thumbnailId": "p2099821",
+          "price": {
+            "value": 1.00,
+            "currency": "EUR"
+          },
+          "services": []
+        }
+      ],
+      "services": [],
+      "price": {
+        "value": 15.00,
+        "currency": "EUR"
+      },
+      "locale": "fr_FR",
+      "ratePlanId": "8adc987238248ffc3018249404e5f4f4f",
+      "ratePlanChargeId": "8adc88888248ffbf01824948fe8d3b93"
+    },
+    {
+      "id": "3adbe912-ad70-42cd-a021-4d9c783a8f4b",
+      "name": "LOCATION VELO ENFANT",
+      "description": "Location mensuelle par abonnement",
+      "pictures": [],
+      "activationFee": {
+        "value": 0.00,
+        "currency": "EUR"
+      },
+      "billingPeriod": "P1M",
+      "commitmentPeriod": "P3M",
+      "firstPeriodToInvoice": "P1M",
+      "products": [
+        {
+          "skuCode": "2469823",
+          "name": "VELO 16 POUCES 4,5-6 ANS 500 SPY HERO GIRL",
+          "thumbnailId": "p1290922",
+          "price": {
+            "value": 9.00,
+            "currency": "EUR"
+          },
+          "services": [
+            {
+              "id": "8adcddef7c6892e2017c6f4b2d2f0ff8",
+              "name": "Service casse",
+              "description": "Votre vélo est couvert contre les dommages accidentels et la casse due à une chute ou un choc pendant 2 ans et dans la limite de sa valeur en prix de vente TTC.",
+              "price": {
+                "value": 0.00,
+                "currency": "EUR"
+              },
+              "contractCode": "ABO-JU-DOM",
+              "contractPrice": {
+                "value": 0.14,
+                "currency": "EUR"
+              }
+            },
+            {
+              "id": "8adcddef7c6430e3780c6f4b2d8c0ffd",
+              "name": "Assurance vol",
+              "description": "Cette option est valable pendant 2 ans dans la limite de la valeur d’achat du produit. À noter que pour les vélos 6 à 12 ans, il faut un antivol homologué de type \"U\" ou chaînes ayant une note de 7/10 et plus. Plus d’infos dans notre FAQ.",
+              "price": {
+                "value": 2.00,
+                "currency": "EUR"
+              },
+              "contractCode": "ABO-JU-VOL",
+              "contractPrice": {
+                "value": 2.00,
+                "currency": "EUR"
+              }
+            },
+            {
+              "id": "8adcddea7c6430e0762c6f4b2dd21002",
+              "name": "Entretien annuel",
+              "description": "Notre service inclut la révision du vélo à 6 mois, ainsi qu’un entretien annuel avec d’éventuels changements de pièces usées assurant la sécurité de l’enfant (poignées, levier et patins de frein).",
+              "price": {
+                "value": 0.00,
+                "currency": "EUR"
+              },
+              "contractCode": null,
+              "contractPrice": null
+            }
+          ]
+        }
+      ],
+      "services": [],
+      "price": {
+        "value": 9.00,
+        "currency": "EUR"
+      },
+      "locale": "fr_FR",
+      "ratePlanId": "8adchhra7c6430e2017c6f4b2e1d1007",
+      "ratePlanChargeId": "8adcdpoi7c6430e2017c6f4b2e321009"
+    }
+  ]
+}
